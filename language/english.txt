@@ -1,6 +1,6 @@
 # General Message
 
-TESTEins = "Hello this is the 1. translation"
+TESTEins = "Magic? I think NO?!"
 TESTZwei = "Live edit, is nice!"
 
  

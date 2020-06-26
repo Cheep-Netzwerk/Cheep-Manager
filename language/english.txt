@@ -1,0 +1,6 @@
+# General Message
+
+TESTEins = "Hello this is the 1. translation"
+TESTZwei = "Hello this is a tall setep! You rewuest the 2. translation"
+
+ 

@@ -1,0 +1,6 @@
+# General Message
+
+TESTEins = "Hallo das ist die 1. Übersetzung"
+TESTZwei = "Hallo das ist ein großer Fortschritt! Du hast die 2. Überstzung abgerufen"
+
+ 

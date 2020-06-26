@@ -1,6 +1,6 @@
 # General Message
 
-TESTEins = "Magic? I think NO?!"
+TESTEins = "GOOF NIGHT!"
 TESTZwei = "Live edit, is nice!"
 
  

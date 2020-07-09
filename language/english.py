@@ -284,7 +284,7 @@ Question24                                  		= "{USER}, the question is not nic
                                                                 #=#=# GUILD ADMINISTRATION #=#=#
 # - Autochannel - #
 AutochannelHelp 					= "**USAGE:**\n !autochannel set <Channel ID>`  -  Add an autochannel\n !autochannel unset <Channel ID>`  -  Remove an autochannel\n !autochannel list`  -  List all autochannel\n Autochannel"
-HelpDescription 					= "Create, delete and manage your Voice-Autochannels"
+AutochannelHelpDescription 				= "Create, delete and manage your Voice-Autochannels"
 
 AutochannelErrorTitle 					= "**Error - Autochannel** \n\n"
 AutochannelErrorNotExist 				= "Voice channel with the ID `%s` does not exist."

@@ -1,6 +1,0 @@
-# General Message
-
-TESTEins = "GOOF NIGHT!"
-TESTZwei = "Live edit, is nice!"
-
- 

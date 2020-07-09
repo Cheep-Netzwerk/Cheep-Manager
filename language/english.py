@@ -1,5 +1,5 @@
 #===================================================================================================================================================================#
-																#=#=# General #=#=#
+								#=#=# General #=#=#
 # - Language - #
 Language                                    		= "English"
 LanguageShort                               		= "en"
@@ -18,7 +18,7 @@ Owner 							= "Owner"
 
 
 #===================================================================================================================================================================#
-																#=#=# Administration #=#=#
+								#=#=# Administration #=#=#
 
 # - Broadcast - #
 BroadcastFooter 					= "Discord-Manager | Information"
@@ -48,7 +48,7 @@ GlobalAdministrationErrorCreateInvite 			= "Ich besitze auf dem Server **{SERVER
 
 
 #===================================================================================================================================================================#
-																#=#=# Bot Information #=#=#
+								#=#=# Bot Information #=#=#
 
 # - BotMention - #
 BotMentionRespond 					= "**Network-Status:**\n Cheep-Netzwerk | API: {STATUSICON} **Online**\n Cheep-Netzwerk | Cloud: {STATUSICON} **Online**\n Cheep-Netzwerk | Discord-Manager: {STATUSICON} **Online**\n Cheep-Netzwerk | Verify-System: {STATUSICON} **Online**\n Cheep-Netzwerk | Account-System: {STATUSICON} **Online**\n Cheep-Netzwerk | Server-System: {STATUSICON} **Online**\n **Website:** [Cheep-Netzwerk.de](https://Cheep-Netzwerk.de)\n\n**Need Help?**\nDo **!help** to see my Commands.\n\nOur staff team also can help you... **[Click here](http://Discord.Cheep-Netzwerk.de)**"
@@ -108,7 +108,7 @@ UptimeReconnects					= "Reconnects"
 
 
 #===================================================================================================================================================================#
-																#=#=# Bot Information #=#=#
+								#=#=# Bot Information #=#=#
 # - Count - #
 CountHelp 						= "**USAGE:** !count <Message>"
 CountHelpDescription 					= "Count chars, words and sentences of an input string"

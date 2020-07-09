@@ -57,7 +57,7 @@ BotMentionRespond 					= "**Network-Status:**\n Cheep-Netzwerk | API: {STATUSICO
 BotStatsHelp 						= "**USAGE:** {PREFIX}botstats"
 BotStatsHelpDescription 				= "Displays stats of the bot"
 
-BotStatsTitle 						= "\:robot: **Discord-Manager STATS**"
+BotStatsTitle 						= "\\\uD83e\uDD16 **Discord-Manager STATS**"
 BotStatsCommandsRegistered 				= "Registered commands:"
 BotStatsServers 					= "Running on servers:"
 BotStatsMembers 					= "Deserving members:"
@@ -68,7 +68,7 @@ BotStatsCommandsExecuted 				= "Commands executed:"
 InformationHelp 					= "**USAGE:** {PREFIX}info"
 InformationHelpDescription 				= "Shows information about the bot"
 
-InformationTitle 					= "\:robot: **Discord-Manager**"
+InformationTitle 					= "\\\uD83e\uDD16 **Discord-Manager**"
 InformationVersion 					= "Version"
 InformationBotPhase 					= "Bot Phase"
 InformationCopyright 					= "Copyright"
